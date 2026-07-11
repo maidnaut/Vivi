@@ -19,4 +19,4 @@ Vivi is NOT
 
 Currently only the lexer, ast and parser are implemented. Run vivi with ``./build/vivi . --ast`` after compiling.
 
-Please see the [spec](https://github.com/maidnaut/Vivi/blob/main/docs/spec.txt) for a full breakdown.
+Please see the [spec](https://github.com/maidnaut/Vivi/blob/main/docs/spec.txt) or the [markdown version](https://github.com/maidnaut/Vivi/blob/main/docs/spec.md) for a full breakdown.
