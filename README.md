@@ -20,3 +20,7 @@ Vivi is NOT
 Currently only the lexer, ast and parser are implemented. Run vivi with ``./build/vivi . --ast`` after compiling.
 
 Please see the [spec](https://github.com/maidnaut/Vivi/blob/main/docs/spec.txt) for a full breakdown.
+
+---
+
+Syntax Highlighting is available for [vscode](https://marketplace.visualstudio.com/items?itemName=JulianKylander.vivi) and [tree-sitter](https://github.com/jkylander/tree-sitter-vivi), courtesy of [jkylander](https://github.com/jkylander).
